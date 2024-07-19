@@ -1,0 +1,17 @@
+cff-version: 0.0.2
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Arantes"
+  given-names: "Pablo"
+
+title: "Making-it-rain"
+version: 0.0.0
+date-released: 2024-07-19
+repository-code: https://github.com/quantaosun/making-it-rain/blob/main/MD_Small_Molecules.ipynb
+keywords:
+  - "drug design"
+  - "molecular docking"
+  - "molecular dynamics"
+  - "dihedral angle analysis"
+license: MIT
+url: "https://github.com/quantaosun/making-it-rain"
